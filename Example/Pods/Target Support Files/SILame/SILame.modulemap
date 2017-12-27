@@ -1,0 +1,6 @@
+framework module SILame {
+  umbrella header "SILame-umbrella.h"
+
+  export *
+  module * { export * }
+}

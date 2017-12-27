@@ -1,0 +1,22 @@
+{
+  "name": "SILame",
+  "version": "0.1.0",
+  "summary": "A short description of SILame.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ungacy/SILame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ungacy": "ungacy@126.com"
+  },
+  "source": {
+    "git": "https://github.com/ungacy/SILame.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SILame/Classes/**/*"
+}
