@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SILame_Example' do
+  pod 'SILame', :path => '../'
+
+  target 'SILame_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
