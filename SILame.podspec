@@ -8,17 +8,17 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SILame'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Lame for Super Id.'
 
   s.description      = <<-DESC
 .mp3 file encode and decode.
                        DESC
 
-  s.homepage         = 'https://github.com/ungacy/SILame'
+  s.homepage         = 'http://superid.cn:81/iOS/SILame'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ungacy' => 'ungacy@126.com' }
-  s.source           = { :git => 'https://github.com/ungacy/SILame.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@git.superid.cn:iOS/SILame.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
   s.ios.vendored_frameworks = 'lame.framework'
