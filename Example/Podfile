@@ -1,8 +1,8 @@
 use_frameworks!
 
 target 'SILame_Example' do
-  pod 'SILame', :path => '../', :configurations => ['Debug']
-
+    pod 'SILame', :path => '../'#, :configurations => ['Debug']
+    #pod 'SILame/Release', :path => '../', :configurations => ['Release']
 
   target 'SILame_Tests' do
     inherit! :search_paths

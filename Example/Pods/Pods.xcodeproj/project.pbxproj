@@ -65,6 +65,7 @@
 		52C18C0EB1FED5EB5CE3B0E768AC510F /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		57AB354BF0C31F54E2A3833AF54A9D15 /* Pods-SILame_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SILame_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		59BEA4B686E66721E8910AD5F0D76C61 /* lame.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = lame.framework; path = Release/lame.framework; sourceTree = "<group>"; };
 		5B2EF651609BCD7B9A3B3893F1CB5E13 /* Pods-SILame_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SILame_Example-resources.sh"; sourceTree = "<group>"; };
 		5E1CF661B7DE162E794455381034E263 /* Pods_SILame_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SILame_Example.framework; path = "Pods-SILame_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64F531ACF0F7EB4FC1F31CD9F265A043 /* Pods-SILame_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SILame_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -96,7 +97,6 @@
 		EAAF97B9064B6869D2C441C343504F00 /* Pods-SILame_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SILame_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		ED6B6E58C01368E1A5AC8E7A5E05B00B /* Pods-SILame_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SILame_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EEE097317342971F44FA03C8AD1BCC09 /* Pods-SILame_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SILame_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		FCA1AB0E27D10B3530FB51A0C99395A4 /* lame.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = lame.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,10 +171,10 @@
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
-		7A967E4B312F8C61248A7875EB353DEF /* Frameworks */ = {
+		695AF0BA043AD32B0275AD7FA710D9CE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				FCA1AB0E27D10B3530FB51A0C99395A4 /* lame.framework */,
+				59BEA4B686E66721E8910AD5F0D76C61 /* lame.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -250,7 +250,7 @@
 		B16C2A11C423B82D41C05CEB884E3BC7 /* SILame */ = {
 			isa = PBXGroup;
 			children = (
-				7A967E4B312F8C61248A7875EB353DEF /* Frameworks */,
+				695AF0BA043AD32B0275AD7FA710D9CE /* Frameworks */,
 			);
 			name = SILame;
 			path = ../..;

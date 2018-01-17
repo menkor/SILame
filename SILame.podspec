@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SILame'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'Lame for Super Id.'
 
   s.description      = <<-DESC
@@ -21,5 +21,13 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'git@git.superid.cn:iOS/SILame.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
-  s.ios.vendored_frameworks = 'lame.framework'
+  s.ios.vendored_frameworks = 'Release/lame.framework'
+  # s.subspec 'Debug' do |ss|
+  #   ss.ios.vendored_frameworks = 'Release-iphonesimulator/lame.framework'
+  # end
+  #
+  # s.subspec 'Release' do |ss|
+  #   ss.ios.vendored_frameworks = 'Release-iphoneos/lame.framework'
+  # end
+  
 end

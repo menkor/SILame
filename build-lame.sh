@@ -12,9 +12,8 @@ SCRATCH="scratch-lame"
 # must be an absolute path
 THIN=`pwd`/"thin-lame"
 
-COMPILE="y"
+COMPILE="n"
 LIPO="y"
-FRAMEWORK="y"
 
 if [ "$*" ]
 then
@@ -87,23 +86,15 @@ then
 	set - $ARCHS
 	CWD=`pwd`
 	cd $THIN/$1/lib
-	for LIB in *.a
+	for LIB in *.a 
 	do
 		cd $CWD
+		echo  `find $THIN -name $LIB`
 		lipo -create `find $THIN -name $LIB` -output $FAT/lib/$LIB
 	done
 
 	cd $CWD
 	cp -rf $THIN/$1/include $FAT
 fi
-if [ "$FRAMEWORK" ]
-then
-	rm -rf lame.framework
-	echo "building lame.framework..."
-	mkdir -p lame.framework/Headers/
-	cp -rf $FAT/include/lame/* lame.framework/Headers/
-	cp -f $FAT/lib/libmp3lame.a lame.framework/lame
-fi
-
 #   clean tmp directories
-rm -rf $SOURCE $FAT $SCRATCH $THIN
+#rm -rf $SOURCE $FAT $SCRATCH $THIN
