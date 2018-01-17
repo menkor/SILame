@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SILame'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'Lame for Super Id.'
 
   s.description      = <<-DESC

@@ -31,9 +31,8 @@ then
 	cp -f $OUTPUT/lib/libmp3lame.a $OUTPUT/lame.framework/lame
 fi
 
-rm -rf Release/lame.framework
-mkdir -p Release/
-cp -rf $OUTPUT/lame.framework Release/lame.framework
+rm -rf lame.framework
+cp -rf $OUTPUT/lame.framework lame.framework
 
 echo "merging iphone binaries..."
 
