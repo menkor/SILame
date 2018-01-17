@@ -7,6 +7,7 @@
 //
 
 #import "SIViewController.h"
+#import <lame/lame.h>
 
 @interface SIViewController ()
 

@@ -13,31 +13,27 @@
 		2309553D4204A8C2F598ABF16E503A9B /* Pods-SILame_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 64F531ACF0F7EB4FC1F31CD9F265A043 /* Pods-SILame_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2CAC0B64A1D1F49D0F918418FD41B74C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3061CE52303108ECB17C65A8DB4BC4A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */; };
+		3F917B4890B56B5704EE19DF542B0F63 /* Pods-SILame_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 442E753D2412F0AFE3F08039131B5B24 /* Pods-SILame_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 52C18C0EB1FED5EB5CE3B0E768AC510F /* FBSnapshotTestCase-dummy.m */; };
-		6206FC9F1C6D44D7FB29E937BB4F5EB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */; };
-		6E9567DFF8D7E0018996372F6503AFEE /* Pods-SILame_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 442E753D2412F0AFE3F08039131B5B24 /* Pods-SILame_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		756564ABAF2892FE7140C92A1CDDCF65 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */; };
 		7E9B14D5F8842A86CA86F2AF45230725 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */; };
 		841FF232C33C7D49C58CEFDBE7EEB92B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */; };
 		91D0138ACFAD733E4061F12E450C336C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9B7147F93BD540F98606C71886121893 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */; };
-		ABE055C8394E4468540C8A52AEFC70D9 /* Pods-SILame_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27E4968A0CE22FCA3D4D1A15BA5FC6DA /* Pods-SILame_Example-dummy.m */; };
 		B27DFD6025D94758785918F1D6F6C060 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A27810809BAD71E4022600B21251449F /* QuartzCore.framework */; };
 		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 73D037B3C804B9E1BB70538E342E5104 /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		CBE9CCD326F2BD3F1A49BC2679793B7D /* SILame-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 474BB4AFB05D729DDB5896739B55F05A /* SILame-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CD7C55231EB98B53F0E1B85AF752368F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 864CF5061EAE57F9D442E4C6A15668AC /* ReplaceMe.m */; };
-		D0090B331AA481B3D7EF8219ED346A4F /* SILame-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F8359838213BAF754A9A7FC05170BCCC /* SILame-dummy.m */; };
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */; };
 		EA6FBB76164B78AA8F0B13F7A6B4C51B /* Pods-SILame_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BA14FD332C683C161952AAE1C3E75A42 /* Pods-SILame_Tests-dummy.m */; };
+		F2DCA1FE089E619B42D23380E4374D66 /* Pods-SILame_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27E4968A0CE22FCA3D4D1A15BA5FC6DA /* Pods-SILame_Example-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,24 +44,15 @@
 			remoteGlobalIDString = 34CD2E3428AB802BACA62286FF5074B1;
 			remoteInfo = FBSnapshotTestCase;
 		};
-		BD414032D9A7E95FF0DFAECEE440DF35 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C0193C8820912358DE66F8749B9E1A88;
-			remoteInfo = SILame;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		028EF32AD1EB831B35B3192EFE701CC8 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		04F7921BCBA6B4E47EE9803A1C5EC4E8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
 		0F030FCE3D836A207A4E64252E32FD10 /* Pods-SILame_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SILame_Example.modulemap"; sourceTree = "<group>"; };
 		0FCA2265CD8D3072140539978827CCBB /* Pods-SILame_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SILame_Tests-resources.sh"; sourceTree = "<group>"; };
 		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		23AFF382F2C729B5E196FBBFA8E6F202 /* Pods_SILame_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SILame_Example.framework; path = "Pods-SILame_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27E4968A0CE22FCA3D4D1A15BA5FC6DA /* Pods-SILame_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SILame_Example-dummy.m"; sourceTree = "<group>"; };
 		27FBEAB195F20BB5648989640C3ED546 /* Pods-SILame_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SILame_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
@@ -75,35 +62,32 @@
 		3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		442E753D2412F0AFE3F08039131B5B24 /* Pods-SILame_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SILame_Example-umbrella.h"; sourceTree = "<group>"; };
-		474BB4AFB05D729DDB5896739B55F05A /* SILame-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SILame-umbrella.h"; sourceTree = "<group>"; };
 		52C18C0EB1FED5EB5CE3B0E768AC510F /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		57AB354BF0C31F54E2A3833AF54A9D15 /* Pods-SILame_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SILame_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		5968F7FE4A59E107F4181E425E345FEB /* SILame.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SILame.framework; path = SILame.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B2EF651609BCD7B9A3B3893F1CB5E13 /* Pods-SILame_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SILame_Example-resources.sh"; sourceTree = "<group>"; };
+		5E1CF661B7DE162E794455381034E263 /* Pods_SILame_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SILame_Example.framework; path = "Pods-SILame_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64F531ACF0F7EB4FC1F31CD9F265A043 /* Pods-SILame_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SILame_Tests-umbrella.h"; sourceTree = "<group>"; };
 		6E66B4218824CF8160D93713DDBEEA82 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F5C4961DC2E1095CF93A81CE7608311 /* Pods-SILame_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SILame_Tests.modulemap"; sourceTree = "<group>"; };
+		720AC90AF1CC348EAA70FE94BB776BA3 /* Pods_SILame_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SILame_Tests.framework; path = "Pods-SILame_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73D037B3C804B9E1BB70538E342E5104 /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		7E8EDC85C9B732E4F7130C0A50C028D7 /* Pods-SILame_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SILame_Example.release.xcconfig"; sourceTree = "<group>"; };
 		823558E8AC8EB39D028DB5FBBEA227A3 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		864CF5061EAE57F9D442E4C6A15668AC /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = SILame/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		868921C52E0B9F5F4086F19224B9755E /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E1E67E8A464EE9487D6DFC9024687E0 /* Pods-SILame_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SILame_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8F7C63EEB02BE8A09BEC85C1422D94EE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		93CE57B0BB72B8BD4E27E05749265C5A /* SILame.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SILame.modulemap; sourceTree = "<group>"; };
 		A1FDECABD6806E6EDEB362A63501441B /* Pods-SILame_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SILame_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A27810809BAD71E4022600B21251449F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		ACF71326E284A5859EE3D31876763D90 /* Pods_SILame_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SILame_Tests.framework; path = "Pods-SILame_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		BA14FD332C683C161952AAE1C3E75A42 /* Pods-SILame_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SILame_Tests-dummy.m"; sourceTree = "<group>"; };
 		BC717F62F940380CCF3EB8D4C054BEF8 /* Pods-SILame_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SILame_Example-frameworks.sh"; sourceTree = "<group>"; };
 		C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CBC355689584451DDEC9574E7E32B918 /* SILame.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SILame.xcconfig; sourceTree = "<group>"; };
 		CC12BCFA3FC0B8C307F5B38C673EDD12 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		DADAF30F2D84FDAAD2ADD2D50C1F40DF /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
@@ -112,9 +96,7 @@
 		EAAF97B9064B6869D2C441C343504F00 /* Pods-SILame_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SILame_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		ED6B6E58C01368E1A5AC8E7A5E05B00B /* Pods-SILame_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SILame_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EEE097317342971F44FA03C8AD1BCC09 /* Pods-SILame_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SILame_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		F8359838213BAF754A9A7FC05170BCCC /* SILame-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SILame-dummy.m"; sourceTree = "<group>"; };
-		FF5875030B17DC7BE66C7B12DDF5A63E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FF71D956678810619EECF7C8E3736D5B /* SILame-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SILame-prefix.pch"; sourceTree = "<group>"; };
+		FCA1AB0E27D10B3530FB51A0C99395A4 /* lame.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = lame.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,14 +111,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2C1F8364330AE944128CC80B7B84E856 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6206FC9F1C6D44D7FB29E937BB4F5EB1 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		3E13C0413E5F9D55FA51CA726A7D9234 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -145,11 +119,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B859AEBB7F149220F836DB6DCBF86991 /* Frameworks */ = {
+		EA5D5E29617CDADF5EF63CD6FC216549 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3061CE52303108ECB17C65A8DB4BC4A2 /* Foundation.framework in Frameworks */,
+				9B7147F93BD540F98606C71886121893 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,6 +152,14 @@
 			path = "../Target Support Files/FBSnapshotTestCase";
 			sourceTree = "<group>";
 		};
+		16056EA7CBCFAF4EAB8A6A7E17CA0EBC /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B16C2A11C423B82D41C05CEB884E3BC7 /* SILame */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		2287B5EBEAA3C332F8DB9A1E61F5B097 /* FBSnapshotTestCase */ = {
 			isa = PBXGroup;
 			children = (
@@ -189,35 +171,22 @@
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
-		5DD88DF80E0832DBF5FF7E225AB046C1 /* SILame */ = {
+		7A967E4B312F8C61248A7875EB353DEF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				864CF5061EAE57F9D442E4C6A15668AC /* ReplaceMe.m */,
-				FB085A28416D2EDCC6FCCF6E0CA01350 /* Support Files */,
+				FCA1AB0E27D10B3530FB51A0C99395A4 /* lame.framework */,
 			);
-			name = SILame;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		68343A6C4F709FEF82CD9F1ED22E9AD3 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				028EF32AD1EB831B35B3192EFE701CC8 /* FBSnapshotTestCase.framework */,
-				23AFF382F2C729B5E196FBBFA8E6F202 /* Pods_SILame_Example.framework */,
-				ACF71326E284A5859EE3D31876763D90 /* Pods_SILame_Tests.framework */,
-				5968F7FE4A59E107F4181E425E345FEB /* SILame.framework */,
-			);
-			name = Products;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				E5CAEA6926A0052A4EB5BC9A08580696 /* Development Pods */,
+				16056EA7CBCFAF4EAB8A6A7E17CA0EBC /* Development Pods */,
 				14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */,
 				FBD2D672921284E66F309CA3462F84D6 /* Pods */,
-				68343A6C4F709FEF82CD9F1ED22E9AD3 /* Products */,
+				AF84C694E241DF21DC9645EBA683C466 /* Products */,
 				9A1683173A346EDC3996360FA61B69CC /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -268,12 +237,23 @@
 			path = "Target Support Files/Pods-SILame_Tests";
 			sourceTree = "<group>";
 		};
-		E5CAEA6926A0052A4EB5BC9A08580696 /* Development Pods */ = {
+		AF84C694E241DF21DC9645EBA683C466 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5DD88DF80E0832DBF5FF7E225AB046C1 /* SILame */,
+				868921C52E0B9F5F4086F19224B9755E /* FBSnapshotTestCase.framework */,
+				5E1CF661B7DE162E794455381034E263 /* Pods_SILame_Example.framework */,
+				720AC90AF1CC348EAA70FE94BB776BA3 /* Pods_SILame_Tests.framework */,
 			);
-			name = "Development Pods";
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B16C2A11C423B82D41C05CEB884E3BC7 /* SILame */ = {
+			isa = PBXGroup;
+			children = (
+				7A967E4B312F8C61248A7875EB353DEF /* Frameworks */,
+			);
+			name = SILame;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		E6CE46272134E9C70FB022184F85309A /* Pods-SILame_Example */ = {
@@ -315,20 +295,6 @@
 			name = Core;
 			sourceTree = "<group>";
 		};
-		FB085A28416D2EDCC6FCCF6E0CA01350 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				FF5875030B17DC7BE66C7B12DDF5A63E /* Info.plist */,
-				93CE57B0BB72B8BD4E27E05749265C5A /* SILame.modulemap */,
-				CBC355689584451DDEC9574E7E32B918 /* SILame.xcconfig */,
-				F8359838213BAF754A9A7FC05170BCCC /* SILame-dummy.m */,
-				FF71D956678810619EECF7C8E3736D5B /* SILame-prefix.pch */,
-				474BB4AFB05D729DDB5896739B55F05A /* SILame-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/SILame";
-			sourceTree = "<group>";
-		};
 		FBD2D672921284E66F309CA3462F84D6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -340,19 +306,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		0F297B1F756E839011EBC9040A6D23F2 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6E9567DFF8D7E0018996372F6503AFEE /* Pods-SILame_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		107CE5AC611B303ACC89DC6F3163B2D9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				2309553D4204A8C2F598ABF16E503A9B /* Pods-SILame_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		45B722C84A078AE6142E45A35674FC93 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F917B4890B56B5704EE19DF542B0F63 /* Pods-SILame_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -368,14 +334,6 @@
 				CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */,
 				051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */,
 				421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DDD2B16B5AE333287A162FA46B0D850B /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CBE9CCD326F2BD3F1A49BC2679793B7D /* SILame-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -396,25 +354,7 @@
 			);
 			name = FBSnapshotTestCase;
 			productName = FBSnapshotTestCase;
-			productReference = 028EF32AD1EB831B35B3192EFE701CC8 /* FBSnapshotTestCase.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		44CF4ED90320482E404B9782F87839C4 /* Pods-SILame_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 664A692CB318DD5A21116A2C8CFDBF3E /* Build configuration list for PBXNativeTarget "Pods-SILame_Example" */;
-			buildPhases = (
-				921C385D96E161BBE100F069190F18FC /* Sources */,
-				B859AEBB7F149220F836DB6DCBF86991 /* Frameworks */,
-				0F297B1F756E839011EBC9040A6D23F2 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				57EA38F50248469B47724836A39D3F2E /* PBXTargetDependency */,
-			);
-			name = "Pods-SILame_Example";
-			productName = "Pods-SILame_Example";
-			productReference = 23AFF382F2C729B5E196FBBFA8E6F202 /* Pods_SILame_Example.framework */;
+			productReference = 868921C52E0B9F5F4086F19224B9755E /* FBSnapshotTestCase.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		5B992B6CFF0E350FBA303953DC253F5C /* Pods-SILame_Tests */ = {
@@ -432,24 +372,24 @@
 			);
 			name = "Pods-SILame_Tests";
 			productName = "Pods-SILame_Tests";
-			productReference = ACF71326E284A5859EE3D31876763D90 /* Pods_SILame_Tests.framework */;
+			productReference = 720AC90AF1CC348EAA70FE94BB776BA3 /* Pods_SILame_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C0193C8820912358DE66F8749B9E1A88 /* SILame */ = {
+		B2C70664F0F76FD630E4731E39432AA2 /* Pods-SILame_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9F2FF164E0B6B050E751293D8A49AAB9 /* Build configuration list for PBXNativeTarget "SILame" */;
+			buildConfigurationList = 02A839A1244AFA94E20B733B827A2731 /* Build configuration list for PBXNativeTarget "Pods-SILame_Example" */;
 			buildPhases = (
-				2990AF8270DD3940ADF7B5D10FA14F54 /* Sources */,
-				2C1F8364330AE944128CC80B7B84E856 /* Frameworks */,
-				DDD2B16B5AE333287A162FA46B0D850B /* Headers */,
+				39736578974C8BFD907D05F449A4FB5F /* Sources */,
+				EA5D5E29617CDADF5EF63CD6FC216549 /* Frameworks */,
+				45B722C84A078AE6142E45A35674FC93 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SILame;
-			productName = SILame;
-			productReference = 5968F7FE4A59E107F4181E425E345FEB /* SILame.framework */;
+			name = "Pods-SILame_Example";
+			productName = "Pods-SILame_Example";
+			productReference = 5E1CF661B7DE162E794455381034E263 /* Pods_SILame_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -469,25 +409,23 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 68343A6C4F709FEF82CD9F1ED22E9AD3 /* Products */;
+			productRefGroup = AF84C694E241DF21DC9645EBA683C466 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */,
-				44CF4ED90320482E404B9782F87839C4 /* Pods-SILame_Example */,
+				B2C70664F0F76FD630E4731E39432AA2 /* Pods-SILame_Example */,
 				5B992B6CFF0E350FBA303953DC253F5C /* Pods-SILame_Tests */,
-				C0193C8820912358DE66F8749B9E1A88 /* SILame */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2990AF8270DD3940ADF7B5D10FA14F54 /* Sources */ = {
+		39736578974C8BFD907D05F449A4FB5F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD7C55231EB98B53F0E1B85AF752368F /* ReplaceMe.m in Sources */,
-				D0090B331AA481B3D7EF8219ED346A4F /* SILame-dummy.m in Sources */,
+				F2DCA1FE089E619B42D23380E4374D66 /* Pods-SILame_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,14 +434,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA6FBB76164B78AA8F0B13F7A6B4C51B /* Pods-SILame_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		921C385D96E161BBE100F069190F18FC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				ABE055C8394E4468540C8A52AEFC70D9 /* Pods-SILame_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,12 +456,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		57EA38F50248469B47724836A39D3F2E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SILame;
-			target = C0193C8820912358DE66F8749B9E1A88 /* SILame */;
-			targetProxy = BD414032D9A7E95FF0DFAECEE440DF35 /* PBXContainerItemProxy */;
-		};
 		E80FDC261C1CA65A9B5A917C2B2CAF74 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FBSnapshotTestCase;
@@ -568,39 +492,6 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		2DBF9C6270F6F90E6977102D8005287F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7E8EDC85C9B732E4F7130C0A50C028D7 /* Pods-SILame_Example.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-SILame_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SILame_Example/Pods-SILame_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SILame_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -757,9 +648,9 @@
 			};
 			name = Release;
 		};
-		90A7C9BA9FE655C402DEA1FADB21E949 /* Release */ = {
+		7DA2DAD03B45D613E57C6A78C1623DDB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CBC355689584451DDEC9574E7E32B918 /* SILame.xcconfig */;
+			baseConfigurationReference = DBE2210946904992635BFDF75A52986A /* Pods-SILame_Example.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -770,46 +661,19 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SILame/SILame-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SILame/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-SILame_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SILame/SILame.modulemap";
-				PRODUCT_NAME = SILame;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SILame_Example/Pods-SILame_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_SILame_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		A2A47B07C2D0BE235CA502589853B430 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CBC355689584451DDEC9574E7E32B918 /* SILame.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SILame/SILame-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SILame/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SILame/SILame.modulemap";
-				PRODUCT_NAME = SILame;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -877,9 +741,9 @@
 			};
 			name = Debug;
 		};
-		EF48FDADC32D329268BB2D7CC088083A /* Debug */ = {
+		D3E603BC054321C2E70DFC86EB73C247 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DBE2210946904992635BFDF75A52986A /* Pods-SILame_Example.debug.xcconfig */;
+			baseConfigurationReference = 7E8EDC85C9B732E4F7130C0A50C028D7 /* Pods-SILame_Example.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -904,10 +768,11 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
@@ -921,29 +786,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		02A839A1244AFA94E20B733B827A2731 /* Build configuration list for PBXNativeTarget "Pods-SILame_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7DA2DAD03B45D613E57C6A78C1623DDB /* Debug */,
+				D3E603BC054321C2E70DFC86EB73C247 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				33DA7F43A1D2FA3C74A8C8FC246E1FA6 /* Debug */,
 				731DC216E1A58545B559F6E0A2418060 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		664A692CB318DD5A21116A2C8CFDBF3E /* Build configuration list for PBXNativeTarget "Pods-SILame_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EF48FDADC32D329268BB2D7CC088083A /* Debug */,
-				2DBF9C6270F6F90E6977102D8005287F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		9F2FF164E0B6B050E751293D8A49AAB9 /* Build configuration list for PBXNativeTarget "SILame" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A2A47B07C2D0BE235CA502589853B430 /* Debug */,
-				90A7C9BA9FE655C402DEA1FADB21E949 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -14,6 +14,7 @@ THIN=`pwd`/"thin-lame"
 
 COMPILE="y"
 LIPO="y"
+FRAMEWORK="y"
 
 if [ "$*" ]
 then
@@ -95,3 +96,14 @@ then
 	cd $CWD
 	cp -rf $THIN/$1/include $FAT
 fi
+if [ "$FRAMEWORK" ]
+then
+	rm -rf lame.framework
+	echo "building lame.framework..."
+	mkdir -p lame.framework/Headers/
+	cp -rf $FAT/include/lame/* lame.framework/Headers/
+	cp -f $FAT/lib/libmp3lame.a lame.framework/lame
+fi
+
+#   clean tmp directories
+rm -rf $SOURCE $FAT $SCRATCH $THIN

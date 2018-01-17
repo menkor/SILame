@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "lame.h"
 
 FOUNDATION_EXPORT double SILameVersionNumber;
 FOUNDATION_EXPORT const unsigned char SILameVersionString[];

@@ -1,8 +1,8 @@
 {
   "name": "SILame",
   "version": "0.1.0",
-  "summary": "A short description of SILame.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Lame for Super Id.",
+  "description": ".mp3 file encode and decode.",
   "homepage": "https://github.com/ungacy/SILame",
   "license": {
     "type": "MIT",
@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SILame/Classes/**/*"
+  "ios": {
+    "vendored_frameworks": "lame.framework"
+  }
 }
