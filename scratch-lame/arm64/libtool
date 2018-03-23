@@ -72,23 +72,23 @@ host_os=darwin
 
 # The build system.
 build_alias=
-build=x86_64-apple-darwin17.3.0
-build_os=darwin17.3.0
+build=x86_64-apple-darwin17.4.0
+build_os=darwin17.4.0
 
 # A sed program that does not truncate output.
-SED="/usr/bin/sed"
+SED="/usr/local/bin/gsed"
 
 # Sed that helps us avoid accidentally triggering echo(1) options like -n.
 Xsed="$SED -e 1s/^X//"
 
 # A grep program that handles long lines.
-GREP="/usr/bin/grep"
+GREP="/usr/local/bin/ggrep"
 
 # An ERE matcher.
-EGREP="/usr/bin/grep -E"
+EGREP="/usr/local/bin/ggrep -E"
 
 # A literal string matcher.
-FGREP="/usr/bin/grep -F"
+FGREP="/usr/local/bin/ggrep -F"
 
 # A BSD- or MS-compatible name lister.
 NM="nm"
@@ -192,7 +192,7 @@ nm_file_list_spec=""
 lt_sysroot=
 
 # Command to truncate a binary pipe.
-lt_truncate_bin="/bin/dd bs=4096 count=1"
+lt_truncate_bin="/usr/local/opt/coreutils/libexec/gnubin/dd bs=4096 count=1"
 
 # The name of the directory that contains temporary libtool files.
 objdir=.libs
